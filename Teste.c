@@ -6,6 +6,7 @@ void main(){
 
     //Imprime "oi" na tela
     printf("oi!");
+
 }
 
 
